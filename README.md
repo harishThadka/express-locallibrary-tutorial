@@ -7,3 +7,7 @@
 1. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
 
 1. Reference Repository : https://github.com/mdn/express-locallibrary-tutorial
+
+## Nodemon:
+- Enable server restart on file changes using Nodemon
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
