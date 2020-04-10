@@ -13,7 +13,7 @@ const app = express();
 //Set up mongoose connection
 const mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
-const mongoDB = 'mongodb+srv://S538362:Hari@95736@cluster0-qhch7.azure.mongodb.net/test?retryWrites=true&w=majority';
+const mongoDB = 'mongodb+srv://S538362:Hari@95736@cluster0-qhch7.azure.mongodb.net/local_library?retryWrites=true&w=majority';
 // mongoose.connect(mongoDB, { useNewUrlParser: true });
 mongoose.connect(mongoDB, {
 useNewUrlParser: true,useUnifiedTopology: true
