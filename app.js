@@ -18,7 +18,6 @@ dotenv.config({path: '.env'});
 const mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
 const mongoDB = process.env.ATLAS_URI;
-// const mongoDB = 'mongodb+srv://S538362:Hari@95736@cluster0-qhch7.azure.mongodb.net/local_library?retryWrites=true&w=majority';
 mongoose.connect(mongoDB, {
 useNewUrlParser: true,useUnifiedTopology: true
 });
