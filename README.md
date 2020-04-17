@@ -17,14 +17,15 @@ actually be the controller, and therefore depend on the model.
 
 The controller provides model data to the view, and interprets user actions such as button clicks. The controller depends on the view and the model. In some cases, the controller and the view are the same object.
 
-## About Express-local Library:
+## Steps to learn Express-local Library:
 
 1. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
 
 1. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
 
-1. Reference Repository : https://github.com/mdn/express-locallibrary-tutorial
+1. Mongoose Connection: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
 
-## Nodemon:
-- Enable server restart on file changes using Nodemon
-- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+1. Controllers & Routes: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
+
+## Reference Repo:
+- Reference Repository : https://github.com/mdn/express-locallibrary-tutorial
