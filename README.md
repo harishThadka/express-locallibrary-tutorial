@@ -1,7 +1,7 @@
 # express-locallibrary-tutorial
 ## About Model View Controller:
 - MVC is an application design model comprised of three interconnected parts. They include the model (data), the view (user interface), and the controller (processes that handle input). The MVC model or "pattern" is commonly used for developing modern user interfaces.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png)
+![MVC|100x50,20%](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png)
 Components:  
 1. Model: It includes all the data and its related logic
 2. View: Present data to the user or handles user interaction
