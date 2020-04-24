@@ -27,5 +27,9 @@ The controller provides model data to the view, and interprets user actions such
 
 1. Controllers & Routes: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
 
+1. Displaying library data: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data
+
+1. Creating forms: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms
+
 ## Reference Repo:
 - Reference Repository : https://github.com/mdn/express-locallibrary-tutorial
